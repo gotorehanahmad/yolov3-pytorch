@@ -1,0 +1,8 @@
+./data/datasets/images/output000009.png
+./data/datasets/images/output000079.png
+./data/datasets/images/output000082.png
+./data/datasets/images/output000081.png
+./data/datasets/images/output000070.png
+./data/datasets/images/output000060.png
+./data/datasets/images/output000010.png
+./data/datasets/images/output000003.png
